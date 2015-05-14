@@ -6,5 +6,5 @@ class Greeter #greeter class
     "Hello, #{@who}"
   end
 end
-#add comment
+#change comment
 # new comment
